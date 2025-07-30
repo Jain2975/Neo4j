@@ -1,0 +1,8 @@
+n
+"(:Customer {Email: anirudh.navuduri@somaiya.edu, Phone: 98765432, Name: Anirudh})"
+"(:Customer {Email: yuvaan.shah@somaiya.edu, Phone: 23456789, Name: Yuvaan})"
+"(:Product {price: 1500, company: fossil, Name: watch})"
+"(:Product {price: 2000, company: fossil, Name: smart watch})"
+"(:Product {price: 300, company: XYZ, Name: shirt})"
+"(:Category {Description: any tech product, Name: tech})"
+"(:Category {Description: products worn by user, Name: wearables})"
